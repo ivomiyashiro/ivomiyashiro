@@ -17,5 +17,5 @@ Mi nombre es Ivan Miyashiro, soy web developer y estudiante de Ingeniería Infom
 - Crear multiples proyectos
 
 ### ☕ Estemos en contacto!
-- LinkedIn: <a href = "https://www.linkedin.com/in/ivanmiyashiro/">Ivan Miyashiro</a>
-- Website: <a href = "https://ivanmiyashiro.vercel.app/"> Personal Portfolio </a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/ivanmiyashiro/" target="_blank">Ivan Miyashiro</a>
+- Website: <a href = "https://ivanmiyashiro.vercel.app/" target="_blank"> Personal Portfolio </a>
