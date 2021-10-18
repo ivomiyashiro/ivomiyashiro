@@ -13,6 +13,7 @@ Mi nombre es Ivan Miyashiro, soy web developer y estudiante de Ingeniería Infom
 
 ### 💡 Metas para el 2021:
 - Aprender React.js. ✔️
+- Aprender TypeScipt ✔️
 - Aprender Node.js.
 - Crear multiples proyectos
 
