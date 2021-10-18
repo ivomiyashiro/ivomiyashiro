@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**IvoMiyashiro/ivomiyashiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola! Bienvenido a mi perfil de Github!
+Mi nombre es Ivan Miyashiro, soy web developer y estudiante de Ingeniería Infomática en la Universidad Católica Argentina. Y me considero una persona apasionada por la tecnología, muy autodidacta y siempre dispuesto a aprender cosas nuevas!
 
-Here are some ideas to get you started:
+### ✔️ Estoy aprendiendo:
+- Next.js.
+- Tailwind.
+- Shopify SDK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 Estoy trabajando en:
+- E-commerce con Next.js, Tailwind CSS y Shopify SDK.
+- Solución de bugs en proyectos personales.
+
+### 💡 Metas para el 2021:
+- Aprender React.js.
+- Aprender Node.js.
+- Crear multiples proyectos
+
+### ☕ Estemos en contacto!
+- LinkedIn: <a href = "https://www.linkedin.com/in/ivanmiyashiro/">Ivan Miyashiro</a>
+- Website: <a href = "https://ivanmiyashiro.vercel.app/"> Personal Portfolio </a>
