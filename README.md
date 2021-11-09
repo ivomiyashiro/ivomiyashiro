@@ -1,6 +1,6 @@
 
 # Hola! Bienvenido a mi perfil de Github!
-Mi nombre es Ivan Miyashiro, soy web developer y estudiante de Ingeniería Infomática en la Universidad Católica Argentina. Me considero una persona apasionada por la tecnología, muy autodidacta y siempre dispuesto a aprender cosas nuevas!
+Mi nombre es Ivan Miyashiro, soy web developer y estudiante de Ingeniería Infomática en la Universidad Católica Argentina. Me considero una persona apasionada por la tecnología, autodidacta y siempre dispuesto a aprender cosas nuevas!
 
 ### ✔️ Estoy aprendiendo:
 - Typescript
