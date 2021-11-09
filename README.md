@@ -3,12 +3,14 @@
 Mi nombre es Ivan Miyashiro, soy web developer y estudiante de Ingeniería Infomática en la Universidad Católica Argentina. Me considero una persona apasionada por la tecnología, muy autodidacta y siempre dispuesto a aprender cosas nuevas!
 
 ### ✔️ Estoy aprendiendo:
-- Next.js.
-- Tailwind.
-- Shopify SDK.
+- Typescript
+- Next.js
+- Node.js
+- MongoDB
+- Express
 
 ### 👩‍💻 Estoy trabajando en:
-- E-commerce con Next.js, Tailwind CSS y Shopify SDK.
+- Nextter, the Twitter clone.
 - Solución de bugs en proyectos personales.
 
 ### ☕ Estemos en contacto!
