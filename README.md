@@ -1,5 +1,5 @@
 
-# Hola! Bienvenido a mi perfil de Github!
+# Hola!
 Mi nombre es Ivan Miyashiro, soy web developer y estudiante de Lic. en Gestión de Tecnología de la Información. Me considero una persona apasionada por la tecnología, autodidacta y siempre dispuesto a aprender cosas nuevas!
 
 ### ☕ Estemos en contacto!
