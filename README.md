@@ -1,7 +1,7 @@
 
-# Hola!
-Mi nombre es Ivan Miyashiro, soy web developer y estudiante de Lic. en Gestión de Tecnología de la Información. Me considero una persona apasionada por la tecnología, autodidacta y siempre dispuesto a aprender cosas nuevas!
+# 👋 Hi!
+My name is Ivan Miyashiro, I'm a software developer focused in JavaScript technologies such as React and Node. Here you can find my latest personal projects!
 
-### ☕ Estemos en contacto!
-- LinkedIn: <a href = "https://www.linkedin.com/in/ivanmiyashiro/" target="_blank">Ivan Miyashiro</a>
-- Website: <a href = "https://ivanmiyashiro.vercel.app/" target="_blank"> Personal Portfolio </a>
+### Stay in touch!
+- <a href = "https://www.linkedin.com/in/ivanmiyashiro/" target="_blank">Linkedin</a>
+- <a href = "https://ivanmiyashiro.vercel.app/" target="_blank">Portfolio</a>
